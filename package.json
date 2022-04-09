@@ -8,7 +8,7 @@
     "dark-sky-api": "^0.6.32",
     "get-json": "^1.0.1",
     "google-map-react": "^1.1.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pubnub": "^4.27.0",
     "react": "^16.10.2",
     "react-bingmaps": "^3.6.1",
